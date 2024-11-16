@@ -1,6 +1,6 @@
 # Google Meet Panic Button 🚨  
 
-## Project Overview
+## 📄 Project Overview
 
 ### Detect emotions during Google Meet sessions and automatically disable the camera when signs of panic, anger, or fear are detected.  
 
