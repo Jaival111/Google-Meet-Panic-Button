@@ -14,7 +14,7 @@ This project was developed through the collaborative efforts of:
 
 
 ## 🎥 Demo  
-[Click here to watch the demo video](https://drive.google.com/file/d/1QyQYFpyLX37eMGatwuVIKYwDG4QxOItp/view?usp=sharing)
+[Click here to watch the demo video](https://drive.google.com/file/d/1AdoptB0qxCnGtgReCqLbGhLAuL_7vGTG/view?usp=sharing)
 
 
 ## ✨ Features  
